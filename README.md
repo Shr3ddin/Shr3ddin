@@ -1,6 +1,6 @@
 # 🙉 Welcome to my world
 <details>
- <summary><h3>👨‍💻 My Coding History And Goals</h3></summary>
+ <summary><h3>👨‍🎓 My Coding History And Goals</h3></summary>
   </details>
 
 ### 🧰 Languages and Tools
