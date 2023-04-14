@@ -1,5 +1,5 @@
 
-<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi, thanks for stopping by!.</h1>
 <details>
  <summary><h3>👨‍🎓 My Coding History And Goals</h3></summary>
   </details> Hi, thanks for stopping by!
