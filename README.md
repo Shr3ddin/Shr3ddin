@@ -1,5 +1,8 @@
-![image](https://user-images.githubusercontent.com/114825256/232118284-ec547be2-030b-4fff-9956-fcde8e59fa84.png)
-# Hi, thanks for stopping by!
+
+# <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32">
+</picture>Hi, thanks for stopping by!
 <details>
  <summary><h3>👨‍🎓 My Coding History And Goals</h3></summary>
   </details> Hi, thanks for stopping by!
