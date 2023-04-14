@@ -1,4 +1,5 @@
-# <details>
+#  Hi, thanks for stopping by!
+<details>
  <summary><h3>👨‍🎓 My Coding History And Goals</h3></summary>
   </details> Hi, thanks for stopping by!
 
