@@ -1,8 +1,8 @@
 
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi, thanks for stopping by!</h1>
-<details>
+
  <summary><h3>🐱‍👤 About me</h3></summary>
-  </details>
+  <p>Welcome to my profile! I'm Patrick</b>
 
 
 ### 💡 Languages and Tools
