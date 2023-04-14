@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/114825256/232118284-ec547be2-030b-4fff-9956-fcde8e59fa84.png)
 # Hi, thanks for stopping by!
 <details>
  <summary><h3>👨‍🎓 My Coding History And Goals</h3></summary>
