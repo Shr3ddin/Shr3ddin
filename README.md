@@ -1,8 +1,5 @@
 
-# <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32">
-</picture>Hi, thanks for stopping by!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <details>
  <summary><h3>👨‍🎓 My Coding History And Goals</h3></summary>
   </details> Hi, thanks for stopping by!
