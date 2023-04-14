@@ -1,7 +1,7 @@
 
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi, thanks for stopping by!</h1>
 <details>
- <summary><h3>🐱‍👤 About me</h3></summary>
+ <summary><h3>🐱‍👤 About me</h3>Welcome to my profile! I'm a student, aspiring writer, part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to connect!</summary>
   </details>
 
 
