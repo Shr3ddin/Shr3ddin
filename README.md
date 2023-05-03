@@ -2,7 +2,7 @@
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi, thanks for stopping by!</h1>
 
 <h3>🐱‍👤 About me</h3>
-<p>Welcome to my little programming world! My name is Patrick and I started my adventure in 2021, tried many programming paths, eventually falling in love with web development.</p>
+<p>Welcome to my little programming world! My name is Patrick and I started my adventure in 2021. Tried many programming paths, eventually falling in love with web development. My goal is to become a fullstack developer.</p>
 
 
 ### 💡 Languages and Tools
