@@ -2,7 +2,7 @@
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi, thanks for stopping by!</h1>
 
 <h3>🐱‍👤 About me</h3>
-<p>Welcome to my profile! I'm Patrick</b>
+<p>Welcome to my profile! I'm Patrick</p>
 
 
 ### 💡 Languages and Tools
@@ -11,8 +11,8 @@
 <img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" />
-<p>Currently learning...</p>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" /> <br />
+<br /><p>currently improving my skills in...</p>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
