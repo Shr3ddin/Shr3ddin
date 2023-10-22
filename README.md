@@ -1,4 +1,4 @@
-
+![image](https://github.com/Shr3ddin/Shr3ddin/assets/114825256/97c2c3d9-c4fb-4dfc-8fc3-4ec4c3db6903)
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi, thanks for stopping by!</h1>
 
 <h3>🐱‍👤 About me</h3>
