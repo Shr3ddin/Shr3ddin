@@ -4,7 +4,7 @@
 
 <p>Welcome to my little programming world! My name is Patrick and I started my adventure in 2021. Tried many programming paths, eventually falling in love with web development. My goal is to become a fullstack developer.</p>
 
-### 🧮 My stack:
+### 🧮 My stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,wordpress,js" />
