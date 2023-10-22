@@ -3,8 +3,6 @@
 <h3>🐱‍👤 About me</h3>
 <p>Welcome to my little programming world! My name is Patrick and I started my adventure in 2021. Tried many programming paths, eventually falling in love with web development. My goal is to become a fullstack developer.</p>
 
-<br>
-
 ### 🧮 My stack:
 <img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" />
