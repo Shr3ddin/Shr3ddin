@@ -7,7 +7,7 @@
 ### 🧮 My stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,wordpress,js,ts" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,wordpress,js,ts,figma" />
   </a>
 </p>
 
