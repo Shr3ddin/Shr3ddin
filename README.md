@@ -1,4 +1,4 @@
-<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi! Thanks for stopping by 😊</h1>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" width="30"/> Hi! Thanks for stopping by.</h1>
 
 <h3>🐱‍👤 About me</h3>
 
