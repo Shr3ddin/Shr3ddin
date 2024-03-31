@@ -7,7 +7,7 @@
 ### 🧮 STACK
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,wordpress,js,ts,react,nextjs,figma,firebase,gulp,vite&perline=17" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,bootstrap,wordpress,js,ts,astro,react,nextjs,figma,firebase,gulp,vite&perline=17" />
   </a>
 </p>
 
