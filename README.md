@@ -2,7 +2,7 @@
 
 <h3>🐱‍👤 ABOUT</h3>
 
-<p>Welcome to my little programming world! My name is Patrick and I started my adventure in 2021. Tried many programming paths, eventually falling in love with web development. My goal is to become a fullstack developer.</p>
+<p>Welcome to my little programming world! My name is Patrick and my passion for IT began years ago when I started writing simple scripts for games, just for fun. Now, I'm fully engaged in honing my skills in frontend technologies and software testing. </p>
 
 ### 🧮 STACK
 <p align="center">
